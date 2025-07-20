@@ -39,9 +39,7 @@ export default function ModalAbout(props) {
                   passionate about.
                 </p>
                 <p>
-                  In my free time you'll definitely catch me watching movies
-                  and playing games. I also love to cook and alwasy eagar to try
-                  new recipes
+                  In my free time, you'll definitely catch me watching movies and playing games. I also love to cook and is always eager to try new recipes.
                 </p>
               </div>
             </div>
